@@ -11,6 +11,6 @@
     "sudo mv cloudpkg /usr/local/bin/cloudpkg"
   ],
   "test": [
-    "/usr/local/bin/cloudpkg --version"
+    "/usr/local/bin/cloudpkg"
   ]
 }

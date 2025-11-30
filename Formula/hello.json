@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "source": {
     "url": "https://pkgs.bulutaltundis.com/MacOS/hello-1.0.1.tar.gz",
-    "sha256": "604bc092e98e3f039038cfea607f070f591b28f470de1924e6e2febfd6dcad5d" // tar.gz dosyasının SHA256'sı
+    "sha256": "604bc092e98e3f039038cfea607f070f591b28f470de1924e6e2febfd6dcad5d"
   },
   "build": ["echo 'Building...'"],
   "install": ["echo 'Installing...'"],

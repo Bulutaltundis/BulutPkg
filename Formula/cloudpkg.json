@@ -1,0 +1,16 @@
+{
+  "name": "cloudpkg",
+  "version": "self-update",
+  "source": {
+    "url": "https://pkgs.bulutaltundis.com/MacOS/cloudpkg",
+    "sha256": "ce0db610abe3aa669bf3f973343a3b8674bb59d9ff89ba0c1c66b1f1b3b1e21c"
+  },
+  "build": [],
+  "install": [
+    "chmod +x cloudpkg",
+    "sudo mv cloudpkg /usr/local/bin/cloudpkg"
+  ],
+  "test": [
+    "/usr/local/bin/cloudpkg --version"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "source": {
+    "url": "https://example.com/hello-1.0.0.tar.gz",
+    "sha256": "abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890"
+  },
+  "build": ["echo 'Building...'"],
+  "install": ["echo 'Installing...'"],
+  "test": ["echo 'Testing...'"]
+}

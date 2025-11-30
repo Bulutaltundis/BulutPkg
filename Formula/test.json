@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "source": {
+    "url": "https://github.com/stackblitz-labs/bolt.diy/archive/refs/tags/v1.0.0.tar.gz",
+    "sha256": ""
+  },
+  "build": [
+    "cd bolt.diy-1.0.0",
+    "npm install -g pnpm",
+    "pnpm install",
+    "pnpm run dev"
+  ],
+  "install": [
+    "echo 'No install needed'"
+  ]
+}

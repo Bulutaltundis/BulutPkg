@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "source": {
     "url": "https://dessaskod.wordpress.com/wp-content/uploads/2018/05/1_l4xicbiiylz1otymwcoutw.jpeg",
-    "sha256": " b883840ee0e1557be54c548299f0b58a7d90ebb069bb9bd8d378278e5da39ca6"
+    "sha256": "b883840ee0e1557be54c548299f0b58a7d90ebb069bb9bd8d378278e5da39ca6"
   },
   "build": ["echo 'Building...'"],
   "install": ["echo 'Installing...'"],

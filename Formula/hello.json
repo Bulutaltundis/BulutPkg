@@ -2,7 +2,7 @@
   "name": "hello",
   "version": "1.0.0",
   "source": {
-    "url": "https://example.com/hello-1.0.0.tar.gz",
+    "url": "https://dessaskod.wordpress.com/wp-content/uploads/2018/05/1_l4xicbiiylz1otymwcoutw.jpeg",
     "sha256": "abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890"
   },
   "build": ["echo 'Building...'"],

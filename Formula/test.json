@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "source": {
     "url": "https://github.com/stackblitz-labs/bolt.diy/archive/refs/tags/v1.0.0.tar.gz",
-    "sha256": ""
+    "sha256": "16d04c83dfb15c08dc7e97858e9d642a755b44ee85f0952aa8007b22b6119025"
   },
   "build": [
     "cd bolt.diy-1.0.0",

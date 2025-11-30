@@ -3,7 +3,7 @@
   "version": "self-update",
   "source": {
     "url": "https://pkgs.bulutaltundis.com/MacOS/cloudpkg.tar.gz",
-    "sha256": "ce0db610abe3aa669bf3f973343a3b8674bb59d9ff89ba0c1c66b1f1b3b1e21c"
+    "sha256": "0783ec4c487cb3244a2beceb7f0a25e79270c499ea7051b69db03ee9c7599ed6"
   },
   "build": [],
   "install": [
